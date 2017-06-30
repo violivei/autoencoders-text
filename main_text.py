@@ -138,8 +138,8 @@ if latent_size == 2:
             z = np.array([[xi, yi]], dtype=theano.config.floatX)
             y = model.generate(z)[0,:]
             ind = np.argsort(-y)
-            print xi, yi, 
+            print(xi, yi)
             for k in xrange(top_w):
                 print i2w[ind[k]],
-            print "\n"
+            print("\n")
 
