@@ -52,7 +52,7 @@ def apnews():
     f.close()
 
     print(len(docs), len(w2i), len(i2w), len(dic))
-    doc_idx = [i for i in xrange(len(docs))]
+    doc_idx = [i for i in range(len(docs))]
     spliter = (int) (len(docs) / 10.0 * 9)
     train_idx = doc_idx[0:spliter]
     valid_idx = doc_idx[spliter:len(docs)]
@@ -65,7 +65,7 @@ def batched_idx(lst, batch_size = 1):
     data_xy = {}
     batch_x = []
     batch_id = 0
-    for i in xrange(len(lst)):
+    for i in range(len(lst)):
         batch_x.append(lst[i])
         if (len(batch_x) == batch_size) or (i == len(lst) - 1):
             data_xy[batch_id] = batch_x
@@ -78,7 +78,7 @@ def get_doc(x_idx, data):
     X = []
     Y = []
     dict_doc = {}
-    for i in xrange(len(x_idx)):
+    for i in range(len(x_idx)):
         xi = x_idx[i]
         X.append(docs[xi])
         Y.append(targets[xi])
@@ -89,13 +89,13 @@ def get_doc(x_idx, data):
 def batched_news(x_idx, data):
     [docs, dic, w2i, i2w, targets] = data
     X = np.zeros((len(x_idx), len(dic)), dtype = theano.config.floatX)    
-    for i in xrange(len(x_idx)):
+    for i in range(len(x_idx)):
         xi = x_idx[i]
         d = docs[xi]
         for w in d:
             X[i, w2i[w]] += 1
    
-    for i in xrange(len(x_idx)):
+    for i in range(len(x_idx)):
         norm2 = np.linalg.norm(X[i,:])
         if norm2 != 0:
             X[i,:] /= norm2
