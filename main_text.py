@@ -140,6 +140,6 @@ if latent_size == 2:
             ind = np.argsort(-y)
             print(xi, yi)
             for k in xrange(top_w):
-                print i2w[ind[k]],
+                print(i2w[ind[k]])
             print("\n")
 
