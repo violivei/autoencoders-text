@@ -34,12 +34,12 @@ train_idx, valid_idx, test_idx, other_data = data.apnews()
 
 dim_x = len(dic)
 dim_y = dim_x
-print "#features = ", dim_x, "#labels = ", dim_y
+print("#features = ", dim_x, "#labels = ", dim_y)
 
-print "compiling..."
+print("compiling...")
 model = VAE(dim_x, dim_x, hidden_size, latent_size, continuous, optimizer)
 
-print "training..."
+print("training...")
 start = time.time()
 for i in xrange(1):
     train_xy = data.batched_idx(train_idx, batch_size)
@@ -53,24 +53,24 @@ for i in xrange(1):
     in_time = time.time() - in_start
 
     error /= len(train_xy);
-    print "Iter = " + str(i) + ", Loss = " + str(error) + ", Time = " + str(in_time)
+    print("Iter = " + str(i) + ", Loss = " + str(error) + ", Time = " + str(in_time))
 
-print "training finished. Time = " + str(time.time() - start)
+print("training finished. Time = " + str(time.time() - start))
 
-print "save model..."
+print("save model...")
 save_model("./model/vae_text.model", model)
 
-print "lode model..."
+print("lode model...")
 load_model("./model/vae_text.model", model)
 
-print "validation.."
+print("validation..")
 valid_xy = data.batched_idx(valid_idx, batch_size)
 error = 0
 for batch_id, x_idx in valid_xy.items():
     X = data.batched_news(x_idx, other_data)
     cost, y = model.validate(X)
     error += cost
-print "Loss = " + str(error / len(valid_xy))
+print("Loss = " + str(error / len(valid_xy)))
 
 top_w = 20
 ## manifold 
