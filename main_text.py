@@ -41,7 +41,7 @@ model = VAE(dim_x, dim_x, hidden_size, latent_size, continuous, optimizer)
 
 print("training...")
 start = time.time()
-for i in xrange(1):
+for i in range(10):
     train_xy = data.batched_idx(train_idx, batch_size)
     error = 0.0
     in_start = time.time()
@@ -139,7 +139,7 @@ if latent_size == 2:
             y = model.generate(z)[0,:]
             ind = np.argsort(-y)
             print(xi, yi)
-            for k in xrange(top_w):
+            for k in range(top_w):
                 print(i2w[ind[k]])
             print("\n")
 
