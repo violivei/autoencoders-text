@@ -41,7 +41,7 @@ model = VAE(dim_x, dim_x, hidden_size, latent_size, continuous, optimizer)
 
 print("training...")
 start = time.time()
-for i in range(10):
+for i in range(1):
     train_xy = data.batched_idx(train_idx, batch_size)
     error = 0.0
     in_start = time.time()
