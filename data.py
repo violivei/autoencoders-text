@@ -5,7 +5,7 @@ import os
 import numpy as np
 import theano
 import theano.tensor as T
-import cPickle, gzip
+import _pickle, gzip
 import string
 
 curr_path = os.path.dirname(os.path.abspath(os.path.expanduser(__file__)))
