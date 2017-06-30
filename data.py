@@ -50,7 +50,7 @@ def apnews():
         doc_id += 1
     f.close()
 
-    print len(docs), len(w2i), len(i2w), len(dic)
+    print(len(docs), len(w2i), len(i2w), len(dic))
     doc_idx = [i for i in xrange(len(docs))]
     spliter = (int) (len(docs) / 10.0 * 9)
     train_idx = doc_idx[0:spliter]
