@@ -1,0 +1,1001 @@
+col1, col2, col3
+0, ['workshops yongzhen shang enantone'], "Professional and Medical Educational Events", 1
+1, ['travel expenses employees zao kontinent ekspress congress alog'], "Lodging", 2
+2, ['travel expenses non employees accrual expenses pro medical education kelt'], "Consultant", 7
+3, ['wages salaries takeda belgium'], "Salary", 5
+4, ['travel expenses employees zao kontinent ekspress internal meetings marketing'], "Lodging", 7
+5, ['vacation pay accrual debit accrued vac payment social cost marketing'], "Salary", 9
+6, ['travel expenses employees vip korporeyt trevel business trips medical'], "Lodging", 9
+7, ['travel expenses employees zhang dong wen blopress'], "Lodging", 7
+8, ['workshops miao wulong enantone'], "Professional and Medical Educational Events", 8
+9, ['travel expenses employees zhongrui'], "Lodging", 7
+10, ['workshops fei qiu takepron'], "Professional and Medical Educational Events", 5
+11, ['workshops fangjun wu enantone'], "Professional and Medical Educational Events", 0
+12, ['workshops huang qian basen'], "Professional and Medical Educational Events", 4
+13, ['workshops guo wei wei basen'], "Professional and Medical Educational Events", 1
+14, ['workshops lei liu enantone'], "Professional and Medical Educational Events", 5
+15, ['travel expenses non employees zao kontinent ekspress scientific congress insl'], "Professional and Medical Educational Events", 9
+16, ['workshops hotel belvoir centfunc project'], "Professional and Medical Educational Events", 0
+17, ['workshops mingbo yuan enantone'], "Professional and Medical Educational Events", 8
+18, ['vacation pay accrual debit accrued vac payment social cost sales'], "Salary", 9
+19, ['workshops feifei lou'], "Professional and Medical Educational Events", 8
+20, ['workshops shengjie qi'], "Professional and Medical Educational Events", 5
+21, ['workshops dongju li blopress'], "Professional and Medical Educational Events", 0
+22, ['workshops wu zhi qiang'], "Professional and Medical Educational Events", 3
+23, ['workshops goods rec po rp uro mg'], "Brand Events", 5
+24, ['workshops jing chen enantone'], "Professional and Medical Educational Events", 1
+25, ['travel expenses employees thomas griem'], "Lodging", 1
+26, ['workshops fei tan basen'], "Professional and Medical Educational Events", 3
+27, ['workshops qie yu sh'], "Professional and Medical Educational Events", 0
+28, ['workshops jinhui li sh'], "Professional and Medical Educational Events", 8
+29, ['workshops hongzhen zhang blopress'], "Professional and Medical Educational Events", 1
+30, ['workshops chao zhang sh'], "Professional and Medical Educational Events", 1
+31, ['workshops cheng wang blopress'], "Professional and Medical Educational Events", 1
+32, ['travel expenses employees wolfgang eck'], "Lodging", 7
+33, ['wages salaries fix ass constr'], "Variable Manufacturing Costs (VMC)", 1
+34, ['travel expenses non employees goods rec match external meeting tmap'], "Research Grants", 9
+35, ['workshops goods rec po honoraires agences'], "Professional and Medical Educational Events", 5
+36, ['workshops yanghe basen'], "Professional and Medical Educational Events", 5
+37, ['travel expenses non employees media radio tv cin service agreements dori'], "Research Grants", 6
+38, ['workshops xuan ju basen'], "Professional and Medical Educational Events", 5
+39, ['vacation pay accrual debit prov sh liab month insurance medical'], "Salary", 7
+40, ['workshops ou yang fei basen'], "Professional and Medical Educational Events", 5
+41, ['travel expenses employees shen juan juan'], "Lodging", 4
+42, ['travel expenses non employees accrual expenses pro group regional activities alog'], "Consultant", 2
+43, ['travel expenses non employees accrual expenses pro congress alog'], "Professional and Medical Educational Events", 2
+44, ['workshops mti mobilizing teams internationa'], "Internal Events", 3
+45, ['travel expenses employees taxi muller'], "Lodging", 7
+46, ['workshops wang ai qin basen'], "Professional and Medical Educational Events", 8
+47, ['wages salaries payroll settled pbs'], "Salary", 9
+48, ['travel expenses non employees consult fees gen'], "One off Gains & Losses", 2
+49, ['workshops guoping hao enantone pc'], "Professional and Medical Educational Events", 3
+50, ['travel expenses employees shanghai ctrip hongrui internationa'], "Airfare", 7
+51, ['travel expenses employees sona chandra'], "Lodging", 7
+52, ['workshops qiushi zhang basen'], "Professional and Medical Educational Events", 5
+53, ['workshops lu ying blopress'], "Professional and Medical Educational Events", 5
+54, ['workshops lv chuang wei enantone'], "Professional and Medical Educational Events", 1
+55, ['vacation pay accrued vac payment'], "One off Gains & Losses", 4
+56, ['travel expenses employees zhang wei'], "Lodging", 7
+57, ['vacation pay accrual debit sev pay expense'], "One off Gains & Losses", 0
+58, ['travel expenses employees shijie huang'], "Lodging", 7
+59, ['workshops wang liu enantone cpp'], "Professional and Medical Educational Events", 1
+60, ['travel expenses non employees goods rec match external meeting tmap enantone em cpp'], "Consultant", 9
+61, ['vacation pay tax vac accr cred'], "Variable Manufacturing Costs (VMC)", 9
+62, ['travel expenses employees wildling linda'], "Lodging", 2
+63, ['workshops chen guo huang enantone'], "Professional and Medical Educational Events", 1
+64, ['travel expenses employees sanchez rayo isabel'], "Lodging", 5
+65, ['workshops jiamin dong basen'], "Professional and Medical Educational Events", 3
+66, ['wage related costs modern pharmaceutical company'], "Salary", 7
+67, ['travel expenses employees uniline plus'], "Lodging", 0
+68, ['workshops xia pan enantone bc'], "Professional and Medical Educational Events", 1
+69, ['travel expenses employees xiong yan'], "Lodging", 2
+70, ['travel expenses employees santiago beltran vaquerizo'], "Airfare", 6
+71, ['workshops chong wang enantone'], "Professional and Medical Educational Events", 8
+72, ['workshops hotel arts barcelona'], "Professional and Medical Educational Events", 5
+73, ['workshops zhang jie actosnow club actos case competition'], "Professional and Medical Educational Events", 8
+74, ['wage related costs oth wage rel'], "Salary", 9
+75, ['vacation pay accrual credit salaries due empl'], "One off Gains & Losses", 9
+76, ['workshops abbaye de fontevraud rp uro'], "Brand Events", 5
+77, ['wages salaries comptroller income tax'], "Governmental Taxes & Penalties", 9
+78, ['vacation pay accrual debit wages salaries salaries total admin'], "Salary", 9
+79, ['travel expenses non employees ilb gmbh'], "Other Travel Costs", 7
+80, ['travel expenses employees zao kontinent ekspress congress conc'], "Lodging", 2
+81, ['workshops yantao jiang blopress'], "Professional and Medical Educational Events", 1
+82, ['travel expenses employees sorbier voyages ndf gip france'], "Airfare", 1
+83, ['workshops radisson blu hotel zurich airport'], "Professional and Medical Educational Events", 8
+84, ['travel expenses employees zao kontinent ekspress business trips'], "Lodging", 2
+85, ['travel expenses non employees american express cards'], "Airfare", 7
+86, ['workshops merieux foundation'], "Professional and Medical Educational Events", 8
+87, ['workshops goods rec match ev\xc3\x82\xc5\xbdnements digitaux'], "Professional and Medical Educational Events", 5
+88, ['workshops guo jian ping actos'], "Professional and Medical Educational Events", 1
+89, ['travel expenses employees travel exp non empl group regional activities enti'], "Lodging", 2
+90, ['workshops jingjing miao actos'], "Professional and Medical Educational Events", 8
+91, ['workshops mci group asia pacific pte ltd'], "Brand Events", 8
+92, ['workshops gou xiao dong actos'], "Professional and Medical Educational Events", 1
+93, ['travel expenses non employees media radio tv cin group regional activities card'], "Research Grants", 6
+94, ['travel expenses non employees vip korporeyt trevel group regional activities tach'], "Professional and Medical Educational Events", 2
+95, ['workshops yongyuan zhu basen'], "Professional and Medical Educational Events", 3
+96, ['travel expenses non employees zao kontinent ekspress group regional activities malt'], "Professional and Medical Educational Events", 2
+97, ['workshops xuemei li basen'], "Professional and Medical Educational Events", 5
+98, ['workshops hongzhen zhang basen'], "Professional and Medical Educational Events", 5
+99, ['workshops kang chen xi'], "Professional and Medical Educational Events", 1
+100, ['workshops cao wei liang enantone cpp'], "Professional and Medical Educational Events", 1
+101, ['vacation pay oth wage rel'], "Salary", 4
+102, ['workshops yongyuan zhu actosnow club actos case competition'], "Professional and Medical Educational Events", 3
+103, ['travel expenses employees takahito okada'], "Lodging", 7
+104, ['workshops dongbo song tj'], "Professional and Medical Educational Events", 8
+105, ['workshops xuezhen liu blopress'], "Professional and Medical Educational Events", 1
+106, ['workshops chen shi xiong basen'], "Professional and Medical Educational Events", 0
+107, ['workshops qu yan yan enantone em'], "Professional and Medical Educational Events", 1
+108, ['workshops lankai yu actos now sh'], "Professional and Medical Educational Events", 0
+109, ['travel expenses non employees fix ass constr'], "Variable Manufacturing Costs (VMC)", 0
+110, ['travel expenses employees weng li hui'], "Lodging", 7
+111, ['workshops jundong qiu enantone'], "Professional and Medical Educational Events", 3
+112, ['workshops yang wang tj'], "Professional and Medical Educational Events", 8
+113, ['wage related costs tax vac accr cred'], "One off Gains & Losses", 2
+114, ['workshops ting yang blopress'], "Professional and Medical Educational Events", 1
+115, ['workshops fengwen actos'], "Professional and Medical Educational Events", 3
+116, ['workshops yaojun mei blopress'], "Professional and Medical Educational Events", 5
+117, ['workshops wu zhi qiang basen'], "Professional and Medical Educational Events", 5
+118, ['workshops qin ai mei enantone pc'], "Professional and Medical Educational Events", 8
+119, ['workshops huang xiao dan basen'], "Professional and Medical Educational Events", 4
+120, ['travel expenses employees train cong fees'], "Lodging", 2
+121, ['workshops feifei lou actos'], "Professional and Medical Educational Events", 8
+122, ['workshops xiaojian li ppi'], "Professional and Medical Educational Events", 5
+123, ['travel expenses non employees congr exhibitions advisory board kol activities alog'], "Research Grants", 9
+124, ['travel expenses non employees congr exhibitions group regional activities feri'], "Research Grants", 2
+125, ['travel expenses employees sven karlsson'], "Lodging", 0
+126, ['workshops jieyi ma basen'], "Professional and Medical Educational Events", 4
+127, ['workshops lu ying'], "Professional and Medical Educational Events", 3
+128, ['workshops jiawen hu takepron'], "Professional and Medical Educational Events", 3
+129, ['vacation pay accrual credit net wage arrangement'], "Salary", 2
+130, ['wage related costs tax vac accr debit'], "One off Gains & Losses", 9
+131, ['workshops lidan cao actos now gd'], "Professional and Medical Educational Events", 8
+132, ['workshops shupeng zhai enantone em'], "Professional and Medical Educational Events", 3
+133, ['workshops dongling jiang blopress'], "Professional and Medical Educational Events", 8
+134, ['travel expenses non employees accrual expenses pro congress xefo'], "Research Grants", 2
+135, ['workshops yang liu tj'], "Professional and Medical Educational Events", 5
+136, ['travel expenses non employees smpc dr silke horbach'], "Research Grants", 7
+137, ['workshops li lei'], "Professional and Medical Educational Events", 8
+138, ['workshops accrued general regional society bc meeting bc move'], "Professional and Medical Educational Events", 9
+139, ['vacation pay accrual debit net wage arrangement'], "Salary", 2
+140, ['travel expenses employees takeda uk ltd'], "Services/Goods-Received", 7
+141, ['workshops li ya hui sh'], "Professional and Medical Educational Events", 3
+142, ['travel expenses employees stefan sauter'], "Lodging", 0
+143, ['wages salaries payroll settled pbs salaries total distr'], "Salary", 4
+144, ['travel expenses non employees goods rec match'], "Consultant", 9
+145, ['workshops xuemei li blopress'], "Professional and Medical Educational Events", 1
+146, ['vacation pay accrual debit prov sh liab month insurance distr'], "Salary", 0
+147, ['travel expenses non employees accrued general external meeting tmap enantone em cpp'], "Consultant", 2
+148, ['workshops fengwen tj'], "Professional and Medical Educational Events", 3
+149, ['workshops tianjiao yang'], "Professional and Medical Educational Events", 3
+150, ['workshops liu xiao xu tj'], "Professional and Medical Educational Events", 5
+151, ['workshops hao tang takepron'], "Professional and Medical Educational Events", 8
+152, ['workshops peng ye rong blopress'], "Professional and Medical Educational Events", 1
+153, ['travel expenses employees rui monteiro mascarenhas'], "Lodging", 1
+154, ['workshops zhang yan wei enantone'], "Professional and Medical Educational Events", 0
+155, ['workshops lan li zj'], "Professional and Medical Educational Events", 1
+156, ['travel expenses non employees zao kontinent ekspress scientific congress xefo'], "Professional and Medical Educational Events", 9
+157, ['vacation pay remuneration salaries'], "Salary", 0
+158, ['workshops wenbiao dai enantone em'], "Professional and Medical Educational Events", 1
+159, ['vacation pay inc reinv costs icp'], "One off Gains & Losses", 8
+160, ['travel expenses non employees travel exp non empl group regional activities bron'], "Consultant", 2
+161, ['workshops marrier consulting congres nationaux gutron'], "Professional and Medical Educational Events", 8
+162, ['travel expenses non employees zao kontinent ekspress medical education kelt'], "Professional and Medical Educational Events", 9
+163, ['workshops wang ai qin gd'], "Professional and Medical Educational Events", 8
+164, ['workshops yongfeng yang takepron'], "Professional and Medical Educational Events", 5
+165, ['travel expenses employees zhou wen gang'], "Lodging", 7
+166, ['workshops xu li gd'], "Professional and Medical Educational Events", 1
+167, ['wage related costs miasspharma trading'], "Domestic Mobility", 4
+168, ['travel expenses employees \xc3\x82\xe2\x80\x93igo saracho rodr\xc3\x82\xe2\x80\x99guez'], "Airfare", 7
+169, ['wages salaries capitalisat salaries'], "One off Gains & Losses", 1
+170, ['workshops hongzhen zhang'], "Professional and Medical Educational Events", 8
+171, ['workshops jiamin dong blopress'], "Professional and Medical Educational Events", 3
+172, ['vacation pay accrual debit accrued vac payment'], "One off Gains & Losses", 4
+173, ['workshops hongxia xie tj'], "Professional and Medical Educational Events", 1
+174, ['workshops zheke chen actos'], "Professional and Medical Educational Events", 1
+175, ['vacation pay salaries'], "Salary", 0
+176, ['travel expenses employees wen zhang'], "Lodging", 7
+177, ['workshops weiweiji blopress'], "Professional and Medical Educational Events", 1
+178, ['workshops yang li takepron'], "Professional and Medical Educational Events", 1
+179, ['workshops hong zeng basen'], "Professional and Medical Educational Events", 1
+180, ['wages salaries inc reinv costs icp'], "One off Gains & Losses", 8
+181, ['travel expenses non employees travel exp non empl congress cera'], "Professional and Medical Educational Events", 2
+182, ['travel expenses employees timo heckel'], "Lodging", 7
+183, ['vacation pay refunds authorit'], "Salary", 1
+184, ['wages salaries payroll settled pbs wages salaries'], "Other Logistics Services", 9
+185, ['workshops chao zhang basen'], "Professional and Medical Educational Events", 1
+186, ['travel expenses employees xiaofeng qu'], "Lodging", 1
+187, ['travel expenses employees xia yue lan'], "Lodging", 0
+188, ['travel expenses non employees zao kontinent ekspress congress vedo'], "Professional and Medical Educational Events", 9
+189, ['workshops goods rec match \xc3\x82\xc5\xbdunions \xc3\x82\xc5\xbdgionales uro chiran oct'], "Professional and Medical Educational Events", 3
+190, ['travel expenses non employees vip korporeyt trevel congress conc'], "Professional and Medical Educational Events", 9
+191, ['travel expenses employees sironi aureliano massimo'], "Airfare", 7
+192, ['travel expenses employees zhang jia yu'], "Lodging", 7
+193, ['workshops lixiong chen enantone cpp'], "Professional and Medical Educational Events", 5
+194, ['workshops lidan cao actosnow club actos case competition'], "Professional and Medical Educational Events", 8
+195, ['travel expenses non employees zao kontinent ekspress group regional activities card'], "Professional and Medical Educational Events", 2
+196, ['travel expenses non employees gintegra'], "Airfare", 0
+197, ['workshops lixiong chen enantone em'], "Professional and Medical Educational Events", 8
+198, ['workshops xiao ling enantone'], "Professional and Medical Educational Events", 1
+199, ['workshops boxin hu basen'], "Professional and Medical Educational Events", 3
+200, ['workshops zhou ling xia takepron'], "Professional and Medical Educational Events", 5
+201, ['workshops zhongping liu tj'], "Professional and Medical Educational Events", 3
+202, ['workshops wu lin prevacid'], "Professional and Medical Educational Events", 1
+203, ['workshops ou yang qi liang enantone em'], "Professional and Medical Educational Events", 1
+204, ['workshops jinwei lu sh'], "Professional and Medical Educational Events", 1
+205, ['vacation pay accrual debit car taxes'], "Salary", 9
+206, ['workshops xinying zu enantone em'], "Professional and Medical Educational Events", 8
+207, ['travel expenses employees travel exp non empl congress conc'], "Lodging", 2
+208, ['travel expenses employees tellefsen anders'], "Lodging", 0
+209, ['workshops xuan ju actosnow club actos case competition'], "Professional and Medical Educational Events", 8
+210, ['workshops xiaofeng qu enantone pc'], "Professional and Medical Educational Events", 3
+211, ['workshops yuan zhang basen'], "Professional and Medical Educational Events", 1
+212, ['travel expenses non employees zao kontinent ekspress congress cont'], "Professional and Medical Educational Events", 2
+213, ['workshops wu lin ppi'], "Professional and Medical Educational Events", 1
+214, ['workshops xie yan ping enantone'], "Professional and Medical Educational Events", 0
+215, ['travel expenses employees travel exp employees'], "Airfare", 2
+216, ['workshops zhang tao enantone em'], "Professional and Medical Educational Events", 1
+217, ['travel expenses non employees friederike gottschalk'], "Research Grants", 2
+218, ['travel expenses employees zheng wen xu'], "Lodging", 7
+219, ['travel expenses non employees zao kontinent ekspress service agreements xefo'], "Professional and Medical Educational Events", 2
+220, ['travel expenses non employees agency commissions centfunc project'], "Professional and Medical Educational Events", 2
+221, ['wage related costs net wage arrangement'], "Salary", 2
+222, ['vacation pay remuneration payroll settled pbs'], "Variable Manufacturing Costs (VMC)", 4
+223, ['workshops chen yaxue enantone'], "Professional and Medical Educational Events", 5
+224, ['travel expenses employees vector alpha taxi admin'], "Lodging", 2
+225, ['wages salaries accrued vac payment'], "One off Gains & Losses", 4
+226, ['workshops jianlong chen takepron'], "Professional and Medical Educational Events", 5
+227, ['workshops lihong chen actos'], "Professional and Medical Educational Events", 1
+228, ['travel expenses non employees media radio tv cin congress alog'], "Professional and Medical Educational Events", 6
+229, ['workshops jiafeng wu basen'], "Professional and Medical Educational Events", 3
+230, ['workshops zhang jie actos'], "Professional and Medical Educational Events", 1
+231, ['workshops huang yan ling enantone'], "Professional and Medical Educational Events", 0
+232, ['workshops zhen lu actos'], "Professional and Medical Educational Events", 5
+233, ['travel expenses non employees talentory ag'], "Consultant", 7
+234, ['wages salaries bonus provis'], "Salary", 4
+235, ['travel expenses employees sascha kluwer'], "Lodging", 9
+236, ['workshops yan zhao basen'], "Professional and Medical Educational Events", 5
+237, ['travel expenses non employees racing services limited centfunc project'], "Research Grants", 2
+238, ['workshops goods rec match rp uro'], "Brand Events", 5
+239, ['wage related costs prov sh liab month'], "Sales Incentives", 7
+240, ['wages salaries fond sozialnogo straxovaniy salaries total sales'], "Salary", 4
+241, ['workshops lu chu tj'], "Professional and Medical Educational Events", 3
+242, ['travel expenses employees salaries due empl'], "Lodging", 2
+243, ['travel expenses employees tina bond'], "Lodging", 7
+244, ['wages salaries acc rec curr adjust'], "One off Gains & Losses", 0
+245, ['workshops jishun tian prevacid'], "Professional and Medical Educational Events", 5
+246, ['vacation pay oth sales mark'], "Salary", 4
+247, ['vacation pay accrual credit tax vac accr debit'], "Variable Manufacturing Costs (VMC)", 9
+248, ['travel expenses employees victoria tepper'], "Lodging", 2
+249, ['workshops xin zhang takepron'], "Professional and Medical Educational Events", 1
+250, ['travel expenses employees yu juan juan'], "Lodging", 0
+251, ['vacation pay remuneration oth st rec non inter'], "Salary", 4
+252, ['workshops qi ying enantone'], "Professional and Medical Educational Events", 8
+253, ['workshops lihong chen actosnow club actos case competition'], "Professional and Medical Educational Events", 8
+254, ['travel expenses employees vanessa kemp'], "Airfare", 7
+255, ['workshops factory works gmbh centfunc project'], "Internal Events", 5
+256, ['workshops chao chen prevacid'], "Professional and Medical Educational Events", 1
+257, ['workshops change corporation ltd'], "Professional and Medical Educational Events", 1
+258, ['travel expenses employees zao kontinent ekspress business trips medical'], "Airfare", 2
+259, ['travel expenses non employees infosys consulting ag'], "Research Grants", 9
+260, ['travel expenses non employees zavidovo plaza llc internal meetings marketing'], "Consultant", 7
+261, ['workshops wei guo tj'], "Professional and Medical Educational Events", 8
+262, ['travel expenses employees sharon byrne'], "Airfare", 7
+263, ['workshops chunmei huang blopress'], "Professional and Medical Educational Events", 0
+264, ['vacation pay remuneration gov tax sos fund'], "Salary", 0
+265, ['travel expenses employees travel exp non empl congress acto'], "Lodging", 2
+266, ['workshops xiaoyan blopress'], "Professional and Medical Educational Events", 8
+267, ['travel expenses employees zao kontinent ekspress medical education kelt'], "Lodging", 9
+268, ['workshops pan yan ping enantone'], "Professional and Medical Educational Events", 0
+269, ['travel expenses employees shaoqiao wang'], "Lodging", 7
+270, ['travel expenses employees zao kontinent ekspress consultant fees sales'], "Lodging", 2
+271, ['vacation pay oth st rec non inter'], "Salary", 4
+272, ['workshops novotel paris la defense fi \xc3\x82\xc5\xbdseau'], "Lodging", 5
+273, ['travel expenses employees tr viajes el corte ingles'], "Professional and Medical Educational Events", 7
+274, ['workshops shuiqin zeng ppi'], "Professional and Medical Educational Events", 8
+275, ['workshops shu han actos'], "Professional and Medical Educational Events", 8
+276, ['workshops xin wang basen'], "Professional and Medical Educational Events", 8
+277, ['workshops chen shi xiong gd'], "Professional and Medical Educational Events", 0
+278, ['travel expenses employees zao kontinent ekspress congress cera'], "Airfare", 2
+279, ['vacation pay accrual credit accr inc soc sec'], "One off Gains & Losses", 9
+280, ['workshops gong hai bo enantone cpp'], "Professional and Medical Educational Events", 1
+281, ['workshops xiaohe zhang actos'], "Professional and Medical Educational Events", 8
+282, ['workshops jing wei enantone pc'], "Professional and Medical Educational Events", 1
+283, ['wage related costs al danah medical co'], "Domestic Mobility", 9
+284, ['wages salaries consult fees gen'], "One off Gains & Losses", 9
+285, ['workshops accrued general gerd mdt'], "Professional and Medical Educational Events", 4
+286, ['workshops jing chen'], "Professional and Medical Educational Events", 1
+287, ['vacation pay modern pharmaceutical company'], "Salary", 0
+288, ['vacation pay accrual debit wages salaries'], "Salary", 0
+289, ['travel expenses non employees zao kontinent ekspress congress card'], "Professional and Medical Educational Events", 2
+290, ['travel expenses employees rebecca kaufmann'], "Airfare", 5
+291, ['workshops chen guo huang enantone bc'], "Professional and Medical Educational Events", 1
+292, ['workshops li kai basen'], "Professional and Medical Educational Events", 3
+293, ['workshops zhao yiyang takepron'], "Professional and Medical Educational Events", 3
+294, ['workshops media adv prep'], "Professional and Medical Educational Events", 5
+295, ['workshops celebrascience ltd'], "Brand Events", 5
+296, ['workshops jin yue chu'], "Professional and Medical Educational Events", 3
+297, ['travel expenses non employees travel exp non empl congress edar'], "Professional and Medical Educational Events", 2
+298, ['vacation pay salaries due empl'], "Other Logistics Services", 9
+299, ['travel expenses employees wu wen kai'], "Airfare", 1
+300, ['travel expenses employees xiao ye'], "Lodging", 7
+301, ['workshops accrued general actos now gd'], "Professional and Medical Educational Events", 7
+302, ['workshops chen yi ming actos now gd'], "Professional and Medical Educational Events", 1
+303, ['travel expenses employees takafumi horii'], "Lodging", 7
+304, ['workshops qi yue tj'], "Professional and Medical Educational Events", 3
+305, ['workshops ying jia actosnow club actos case competition'], "Professional and Medical Educational Events", 8
+306, ['travel expenses non employees travel exp non empl scientific congress inst'], "Professional and Medical Educational Events", 9
+307, ['workshops cha dong hu actos now hb'], "Professional and Medical Educational Events", 8
+308, ['travel expenses employees susanne weissbaecker'], "Airfare", 1
+309, ['workshops pengwei takepron'], "Professional and Medical Educational Events", 4
+310, ['workshops hui ye blopress'], "Professional and Medical Educational Events", 1
+311, ['wage related costs accrued restr costs'], "One off Gains & Losses", 2
+312, ['workshops xiangming zeng basen'], "Professional and Medical Educational Events", 4
+313, ['vacation pay acc rec curr adjust'], "One off Gains & Losses", 0
+314, ['travel expenses non employees vecchio massimo'], "One off Gains & Losses", 0
+315, ['travel expenses employees vivian wang'], "Lodging", 7
+316, ['workshops chen zai sheng gd'], "Professional and Medical Educational Events", 8
+317, ['workshops goods rec match parcours hommes'], "Professional and Medical Educational Events", 5
+318, ['travel expenses employees tumlare net travel service internal meetings medical'], "Lodging", 0
+319, ['travel expenses employees zhao hui enantone'], "Lodging", 0
+320, ['travel expenses non employees asc management consulting ag centfunc project'], "One off Gains & Losses", 2
+321, ['travel expenses non employees accrual expenses pro congress conc'], "Professional and Medical Educational Events", 2
+322, ['vacation pay accrual debit accrued vac payment wages salaries'], "Variable Manufacturing Costs (VMC)", 4
+323, ['travel expenses non employees travel exp non empl congress feri'], "Professional and Medical Educational Events", 2
+324, ['travel expenses employees sissel fjell'], "Lodging", 7
+325, ['workshops health network communications ltd'], "Professional and Medical Educational Events", 0
+326, ['workshops xurui cui prevacid'], "Professional and Medical Educational Events", 3
+327, ['workshops xiaoyu xiao enantone em'], "Professional and Medical Educational Events", 1
+328, ['travel expenses employees romano antonio'], "Airfare", 7
+329, ['workshops xuezhen liu basen'], "Professional and Medical Educational Events", 5
+330, ['vacation pay remuneration sev pay expense'], "Salary", 0
+331, ['travel expenses employees ralf huber'], "Lodging", 0
+332, ['travel expenses non employees zao kontinent ekspress congress kelt'], "Professional and Medical Educational Events", 9
+333, ['travel expenses employees salvatore ferro'], "Airfare", 7
+334, ['travel expenses employees shanghai ctrip hongrui internationa training dsm talent pool setup'], "Lodging", 0
+335, ['travel expenses non employees travel exp non empl congress conc'], "Consultant", 2
+336, ['travel expenses non employees vip korporeyt trevel scientific congress vedo'], "Professional and Medical Educational Events", 9
+337, ['travel expenses non employees servicenow nederland tax compliance'], "Consultant", 2
+338, ['travel expenses non employees vip korporeyt trevel group regional activities conc'], "Professional and Medical Educational Events", 2
+339, ['travel expenses employees wang nian yin'], "Lodging", 7
+340, ['travel expenses employees zhou gong bo'], "Airfare", 7
+341, ['travel expenses employees roberto vidal'], "Lodging", 0
+342, ['workshops goods rec match boards \xc3\x82\xc5\xbdgionaux msl ixazomib'], "Professional and Medical Educational Events", 5
+343, ['travel expenses non employees accrual expenses pro congress brit'], "Professional and Medical Educational Events", 2
+344, ['travel expenses non employees media radio tv cin group regional activities dexl'], "Consultant", 6
+345, ['travel expenses employees zao kontinent ekspress advisory board kol activities acto'], "Lodging", 9
+346, ['travel expenses employees thomas jacquemart'], "Lodging", 1
+347, ['travel expenses employees soren hovgaard hirsbak'], "Lodging", 7
+348, ['workshops xiaojing zhao basen'], "Professional and Medical Educational Events", 5
+349, ['workshops xiaohe zhang actos now zj'], "Professional and Medical Educational Events", 8
+350, ['workshops ying huang enantone'], "Professional and Medical Educational Events", 5
+351, ['travel expenses non employees public relation medical education vedo'], "Consultant", 2
+352, ['workshops fan gao enantone bc'], "Professional and Medical Educational Events", 1
+353, ['travel expenses employees stine borke'], "Lodging", 7
+354, ['workshops guoping hao enantone bc'], "Professional and Medical Educational Events", 3
+355, ['workshops kfp five star conference service sw'], "Internal Events", 3
+356, ['workshops peilei sun takepron'], "Professional and Medical Educational Events", 5
+357, ['vacation pay accrual debit oth wage rel'], "Salary", 4
+358, ['workshops qimin zhu enantone'], "Professional and Medical Educational Events", 5
+359, ['workshops ru qin basen'], "Professional and Medical Educational Events", 5
+360, ['travel expenses employees wang xue ding'], "Lodging", 0
+361, ['workshops qingbiao huang enantone'], "Professional and Medical Educational Events", 4
+362, ['travel expenses employees wei zhao'], "Lodging", 7
+363, ['travel expenses employees skfvynskay gostiniza delovoy zent internal meetings sales'], "Lodging", 8
+364, ['wages salaries bonus provis'], "One off Gains & Losses", 4
+365, ['vacation pay sev pay expense'], "One off Gains & Losses", 0
+366, ['workshops guo wei wei gd'], "Professional and Medical Educational Events", 1
+367, ['travel expenses non employees alliance life sciences consulting centfunc project'], "Market Research", 2
+368, ['workshops xiaoyan mei enantone'], "Professional and Medical Educational Events", 3
+369, ['workshops shupeng zhai enantone'], "Professional and Medical Educational Events", 3
+370, ['workshops xu min enantone em'], "Professional and Medical Educational Events", 3
+371, ['travel expenses non employees travel exp non empl group regional activities conc'], "Professional and Medical Educational Events", 2
+372, ['workshops ketchum inc centfunc project'], "Agency Fees & Expenses", 1
+373, ['travel expenses employees seerose resort spa'], "Airfare", 7
+374, ['travel expenses employees wang chen'], "Lodging", 7
+375, ['workshops gong hai bo enantone'], "Professional and Medical Educational Events", 1
+376, ['travel expenses employees wang hongbo'], "Lodging", 1
+377, ['workshops liangjie wu enantone'], "Professional and Medical Educational Events", 5
+378, ['travel expenses employees simona pichetto'], "Airfare", 0
+379, ['workshops wu xiao yan blopress'], "Professional and Medical Educational Events", 0
+380, ['workshops purchased services norovirus psa ch'], "Market Research", 5
+381, ['wages salaries wages salaries salaries total distr'], "Salary", 4
+382, ['travel expenses employees vivarelli paolo'], "Airfare", 1
+383, ['workshops lidan cao actos'], "Professional and Medical Educational Events", 3
+384, ['travel expenses non employees vip korporeyt trevel group regional activities movi'], "Professional and Medical Educational Events", 2
+385, ['travel expenses non employees vip korporeyt trevel group regional activities acto'], "Professional and Medical Educational Events", 2
+386, ['workshops accrued general actos now sh'], "Professional and Medical Educational Events", 7
+387, ['workshops zhang tingting enantone cpp'], "Professional and Medical Educational Events", 1
+388, ['workshops nan jiao enantone pc'], "Professional and Medical Educational Events", 8
+389, ['workshops wenbiao dai enantone'], "Professional and Medical Educational Events", 0
+390, ['workshops chao li enantone pc'], "Professional and Medical Educational Events", 0
+391, ['workshops hong bo enantone em'], "Professional and Medical Educational Events", 1
+392, ['workshops fengfeng wang takepron'], "Professional and Medical Educational Events", 5
+393, ['workshops yan ming ppi'], "Professional and Medical Educational Events", 5
+394, ['wages salaries sev pay expense'], "Severances", 0
+395, ['travel expenses employees wang wenjian'], "Lodging", 7
+396, ['vacation pay accrual credit net wage arrangement'], "Variable Manufacturing Costs (VMC)", 2
+397, ['workshops lankai yu sh'], "Professional and Medical Educational Events", 0
+398, ['workshops xie yan ping enantone em'], "Professional and Medical Educational Events", 0
+399, ['workshops weiwei dong sh'], "Professional and Medical Educational Events", 1
+400, ['travel expenses non employees zao kontinent ekspress medical education insl'], "Professional and Medical Educational Events", 9
+401, ['travel expenses non employees zao kontinent ekspress business trips medical'], "Professional and Medical Educational Events", 2
+402, ['workshops hongxia gong enantone'], "Professional and Medical Educational Events", 1
+403, ['workshops global business travel'], "Internal Events", 4
+404, ['workshops goods rec match rp \xc3\x82\xc5\xbdtape de la douleur'], "Brand Events", 4
+405, ['workshops shanliu hb'], "Professional and Medical Educational Events", 5
+406, ['workshops yaojun mei basen'], "Professional and Medical Educational Events", 5
+407, ['workshops hongxia xie blopress'], "Professional and Medical Educational Events", 0
+408, ['travel expenses non employees travel exp non empl congress bron'], "Consultant", 2
+409, ['workshops jiale deng prevacid'], "Professional and Medical Educational Events", 8
+410, ['travel expenses employees weiqing xu'], "Lodging", 9
+411, ['workshops tingting wang actos'], "Professional and Medical Educational Events", 8
+412, ['travel expenses employees qiping zhong'], "Lodging", 0
+413, ['wage related costs social security redi'], "Salary", 7
+414, ['workshops hu fei yan enantone em'], "Professional and Medical Educational Events", 8
+415, ['vacation pay accrual credit net wage arrangement'], "One off Gains & Losses", 2
+416, ['workshops su ming feng actos now gd'], "Professional and Medical Educational Events", 3
+417, ['workshops liu jing actos'], "Professional and Medical Educational Events", 5
+418, ['travel expenses employees troels sorensen'], "Airfare", 7
+419, ['vacation pay accrual debit wages salaries'], "One off Gains & Losses", 0
+420, ['workshops han chen takepron'], "Professional and Medical Educational Events", 1
+421, ['travel expenses employees xiaodan cao'], "Lodging", 0
+422, ['travel expenses employees vergano claudio'], "Airfare", 0
+423, ['workshops qi yu enantone'], "Professional and Medical Educational Events", 1
+424, ['workshops yao hui jiang'], "Professional and Medical Educational Events", 3
+425, ['workshops viajes pacifico'], "Professional and Medical Educational Events", 8
+426, ['travel expenses employees tone \xc3\x82\xc2\x81moen'], "Airfare", 7
+427, ['workshops lai qinqin enantone'], "Professional and Medical Educational Events", 1
+428, ['travel expenses non employees accrual expenses pro scientific congress xefo'], "Consultant", 9
+429, ['travel expenses employees vip korporeyt trevel travel exp employees'], "Variable Manufacturing Costs (VMC)", 2
+430, ['workshops impact xm dengue disease awareness market shapi'], "Market Research", 1
+431, ['workshops yan yuan enantone em'], "Professional and Medical Educational Events", 1
+432, ['workshops yong ji sh'], "Professional and Medical Educational Events", 8
+433, ['workshops wen wu zj'], "Professional and Medical Educational Events", 1
+434, ['workshops dongling jiang'], "Professional and Medical Educational Events", 3
+435, ['workshops zhu jun jie enantone'], "Professional and Medical Educational Events", 3
+436, ['workshops heng duo enantone'], "Professional and Medical Educational Events", 8
+437, ['workshops hu jianguo enantone'], "Professional and Medical Educational Events", 8
+438, ['workshops haitao li takepron'], "Professional and Medical Educational Events", 4
+439, ['workshops huang zhaorun actos'], "Professional and Medical Educational Events", 3
+440, ['vacation pay remuneration pension commitments'], "Salary", 9
+441, ['workshops yang qu enantone em'], "Professional and Medical Educational Events", 1
+442, ['workshops yuan xiao wei blopress'], "Professional and Medical Educational Events", 0
+443, ['workshops sen li blopress'], "Professional and Medical Educational Events", 1
+444, ['wages salaries wages salaries'], "Salary", 0
+445, ['workshops xin zhang zj'], "Professional and Medical Educational Events", 8
+446, ['workshops accrued general actos now hb'], "Professional and Medical Educational Events", 0
+447, ['workshops qingxuan xia takepron'], "Professional and Medical Educational Events", 5
+448, ['travel expenses employees soraya benchenni voyages ndf medical oncology'], "Airfare", 1
+449, ['workshops lu zhang enantone em'], "Professional and Medical Educational Events", 1
+450, ['workshops risheng huang bj'], "Professional and Medical Educational Events", 5
+451, ['workshops sine qua non'], "Professional and Medical Educational Events", 3
+452, ['workshops xie jun enantone cpp'], "Professional and Medical Educational Events", 5
+453, ['workshops shujuan jiang enantone bc'], "Professional and Medical Educational Events", 1
+454, ['workshops yuan lin lin enantone'], "Professional and Medical Educational Events", 1
+455, ['travel expenses employees ralf schaufler'], "Lodging", 7
+456, ['travel expenses non employees dipl ing christiane \xc3\x82\xc5\xb8rstenberg'], "Variable Manufacturing Costs (VMC)", 0
+457, ['workshops lingling wang enantone'], "Professional and Medical Educational Events", 8
+458, ['workshops chen zai sheng actos'], "Professional and Medical Educational Events", 8
+459, ['workshops liu lin basen'], "Professional and Medical Educational Events", 5
+460, ['travel expenses employees vicardi olivio'], "Airfare", 7
+461, ['travel expenses non employees taxiunternehmen reisenhauer'], "Variable Manufacturing Costs (VMC)", 7
+462, ['workshops jingyang li blopress'], "Professional and Medical Educational Events", 1
+463, ['workshops juan zhou hb'], "Professional and Medical Educational Events", 3
+464, ['workshops goods rec match fi \xc3\x82\xc5\xbdseau'], "Professional and Medical Educational Events", 5
+465, ['wage related costs net pay payroll'], "Salary", 2
+466, ['workshops meetings incentives worldwide tax compliance'], "Internal Events", 0
+467, ['workshops chen shaozi enantone em'], "Professional and Medical Educational Events", 1
+468, ['travel expenses non employees zao kontinent ekspress press dexl'], "Professional and Medical Educational Events", 2
+469, ['workshops prepaid expenses'], "Brand Events", 1
+470, ['wages salaries soc sec pensions'], "Variable Manufacturing Costs (VMC)", 0
+471, ['travel expenses employees zhu zhicheng enantone'], "Lodging", 9
+472, ['workshops xiaodan song basen'], "Professional and Medical Educational Events", 5
+473, ['travel expenses employees travel exp employees centfunc project'], "Airfare", 2
+474, ['workshops yuanquan guan blopress'], "Professional and Medical Educational Events", 5
+475, ['workshops kfp five star conference service sw'], "Professional and Medical Educational Events", 3
+476, ['workshops lai qiao ling enantone'], "Professional and Medical Educational Events", 1
+477, ['vacation pay hr document split'], "Other Logistics Services", 8
+478, ['travel expenses non employees media radio tv cin congress cera'], "Professional and Medical Educational Events", 6
+479, ['workshops goods rec match fonctionnement divers presidence'], "Professional and Medical Educational Events", 3
+480, ['workshops qi xiao guo basen'], "Professional and Medical Educational Events", 8
+481, ['workshops ma duo basen'], "Professional and Medical Educational Events", 5
+482, ['travel expenses employees xu li'], "Lodging", 7
+483, ['workshops hongzhen zhang actos'], "Professional and Medical Educational Events", 8
+484, ['travel expenses non employees cmc pharma gmbh'], "Airfare", 7
+485, ['workshops liu jing blopress'], "Professional and Medical Educational Events", 1
+486, ['travel expenses employees steffen mengele'], "Lodging", 0
+487, ['travel expenses non employees vip korporeyt trevel group regional activities alog'], "Professional and Medical Educational Events", 2
+488, ['workshops huang yan ling enantone cpp'], "Professional and Medical Educational Events", 4
+489, ['workshops center communications complianc'], "Professional and Medical Educational Events", 1
+490, ['wages salaries bonus pay salaries total sales'], "Bonus", 9
+491, ['travel expenses employees zao kontinent ekspress business trips distr'], "Lodging", 9
+492, ['travel expenses employees zao kontinent ekspress scientific congress vedo'], "Lodging", 9
+493, ['travel expenses non employees qpri'], "Variable Manufacturing Costs (VMC)", 2
+494, ['travel expenses employees travel exp employees'], "Variable Manufacturing Costs (VMC)", 2
+495, ['workshops jinchun wei basen'], "Professional and Medical Educational Events", 5
+496, ['vacation pay purchased services'], "Salary", 2
+497, ['travel expenses employees shi yin yan'], "Lodging", 2
+498, ['workshops zhen liu enantone em'], "Professional and Medical Educational Events", 5
+499, ['workshops huang qian gd'], "Professional and Medical Educational Events", 1
+500, ['travel expenses employees vince docherty'], "Lodging", 7
+501, ['travel expenses employees yan zhao'], "Lodging", 7
+502, ['workshops chao li enantone bc'], "Professional and Medical Educational Events", 1
+503, ['travel expenses non employees goods rec match external meeting tmap endo'], "Consultant", 9
+504, ['workshops chao chen ppi'], "Professional and Medical Educational Events", 1
+505, ['travel expenses employees roberta barros de lima bolguese'], "Lodging", 0
+506, ['travel expenses non employees goods rec match external meeting tmap'], "Consultant", 9
+507, ['workshops digicomp academy ag'], "Professional and Medical Educational Events", 8
+508, ['workshops liu xiao xu basen'], "Professional and Medical Educational Events", 4
+509, ['travel expenses employees quevedo gonzalez gustavo'], "Lodging", 8
+510, ['travel expenses employees tina heiber'], "Lodging", 7
+511, ['travel expenses employees renata aparecida dias'], "Lodging", 0
+512, ['travel expenses employees sanja letonje'], "Lodging", 7
+513, ['workshops xiaolan shen'], "Professional and Medical Educational Events", 3
+514, ['workshops purchased services dengue psa ch'], "Market Research", 5
+515, ['vacation pay accr inc soc sec'], "Salary", 9
+516, ['wage related costs accr inc soc sec'], "One off Gains & Losses", 2
+517, ['workshops huang gui chun gd'], "Professional and Medical Educational Events", 0
+518, ['travel expenses employees tamara tubin'], "Lodging", 7
+519, ['travel expenses employees semenova elena vadimovna business trips taxi sales'], "Lodging", 9
+520, ['travel expenses employees travel exp non empl congress alog'], "Lodging", 2
+521, ['travel expenses non employees meal entertain gen'], "Consultant", 2
+522, ['wages salaries purchased services'], "Variable Manufacturing Costs (VMC)", 2
+523, ['wage related costs prov sh liab month'], "Perk Cars", 7
+524, ['workshops hao xiang blopress'], "Professional and Medical Educational Events", 1
+525, ['workshops chen qiao yan blopress'], "Professional and Medical Educational Events", 0
+526, ['workshops jianlin guo actosnow club actos case competition'], "Professional and Medical Educational Events", 8
+527, ['workshops yan fu gd'], "Professional and Medical Educational Events", 1
+528, ['workshops ling liu enantone cpp'], "Professional and Medical Educational Events", 5
+529, ['travel expenses non employees zao kontinent ekspress business trips admin'], "Professional and Medical Educational Events", 2
+530, ['workshops wen wu actos'], "Professional and Medical Educational Events", 1
+531, ['workshops yang xiao jie blopress'], "Professional and Medical Educational Events", 1
+532, ['workshops shanliu blopress'], "Professional and Medical Educational Events", 1
+533, ['workshops li lei actos now gd'], "Professional and Medical Educational Events", 1
+534, ['wages salaries accrued general'], "Variable Manufacturing Costs (VMC)", 2
+535, ['workshops sas maine lac rp uro'], "Brand Events", 8
+536, ['wages salaries payroll settled pbs wages salaries'], "Variable Manufacturing Costs (VMC)", 9
+537, ['travel expenses employees roland orendt'], "Lodging", 7
+538, ['travel expenses non employees accrual expenses pro group regional activities cont'], "Consultant", 2
+539, ['workshops zou chuan wei actos'], "Professional and Medical Educational Events", 8
+540, ['workshops yong ji blopress'], "Professional and Medical Educational Events", 1
+541, ['workshops zou chuan wei gd'], "Professional and Medical Educational Events", 8
+542, ['travel expenses non employees zao kontinent ekspress service agreements conc'], "Professional and Medical Educational Events", 2
+543, ['workshops jing wei enantone'], "Professional and Medical Educational Events", 1
+544, ['travel expenses non employees zao kontinent ekspress congress conc'], "Professional and Medical Educational Events", 2
+545, ['workshops huang hua enantone pc'], "Professional and Medical Educational Events", 0
+546, ['workshops lihong chen'], "Professional and Medical Educational Events", 8
+547, ['workshops li ya hui actos now sh'], "Professional and Medical Educational Events", 8
+548, ['workshops zhu zhicheng enantone'], "Professional and Medical Educational Events", 5
+549, ['wages salaries wages salaries'], "Variable Manufacturing Costs (VMC)", 0
+550, ['workshops weiweiji actos'], "Professional and Medical Educational Events", 1
+551, ['travel expenses employees \xc3\x82\xc5\xa1rg wassenhoven'], "Airfare", 1
+552, ['travel expenses employees sabine jung'], "Lodging", 7
+553, ['travel expenses employees zechling birgit'], "Lodging", 1
+554, ['workshops zhang su meng tj'], "Professional and Medical Educational Events", 3
+555, ['travel expenses non employees congr exhibitions group regional activities fend'], "Research Grants", 2
+556, ['travel expenses non employees irene \xc3\x82\xc5\xa1lfel'], "Research Grants", 0
+557, ['travel expenses employees zao kontinent ekspress congress edar'], "Lodging", 9
+558, ['travel expenses employees zao kontinent ekspress scientific congress xefo'], "Lodging", 9
+559, ['travel expenses non employees media radio tv cin congress card'], "Research Grants", 6
+560, ['workshops yang liu basen'], "Professional and Medical Educational Events", 5
+561, ['workshops yu chuan enantone bc'], "Professional and Medical Educational Events", 1
+562, ['workshops yan fu basen'], "Professional and Medical Educational Events", 1
+563, ['travel expenses employees quaranta emilia'], "Airfare", 1
+564, ['workshops jing yu hui enantone em'], "Professional and Medical Educational Events", 5
+565, ['travel expenses employees terje skobba'], "Lodging", 7
+566, ['workshops richard lewis communications centfunc project'], "Professional and Medical Educational Events", 5
+567, ['travel expenses employees rana muhammad qasim khan'], "Airfare", 7
+568, ['workshops irtech nuhiu solutions'], "Professional and Medical Educational Events", 3
+569, ['workshops jue zhu gd'], "Professional and Medical Educational Events", 8
+570, ['travel expenses non employees accrual expenses scientific congress adce'], "Research Grants", 2
+571, ['workshops chenlin wang enantone pc'], "Professional and Medical Educational Events", 8
+572, ['vacation pay accrual credit wages salaries'], "One off Gains & Losses", 9
+573, ['workshops gou xiao dong basen'], "Professional and Medical Educational Events", 4
+574, ['workshops huang hua enantone'], "Professional and Medical Educational Events", 0
+575, ['travel expenses non employees media radio tv cin congress warf'], "Research Grants", 6
+576, ['workshops cha dong hu blopress'], "Professional and Medical Educational Events", 8
+577, ['travel expenses employees tom colpaert'], "Lodging", 7
+578, ['workshops fan gao enantone'], "Professional and Medical Educational Events", 0
+579, ['workshops fayin liu zj'], "Professional and Medical Educational Events", 5
+580, ['travel expenses employees sandra \xc3\x82\xc5\xa0rthel'], "Lodging", 0
+581, ['travel expenses employees rossi alessandro'], "Airfare", 7
+582, ['travel expenses non employees vip korporeyt trevel group regional activities card'], "Professional and Medical Educational Events", 2
+583, ['workshops ren biying enantone'], "Professional and Medical Educational Events", 8
+584, ['vacation pay vacation pay'], "Pension & Savings Benefit", 0
+585, ['workshops qi yue'], "Professional and Medical Educational Events", 3
+586, ['travel expenses employees travel exp non empl centfunc project'], "Lodging", 2
+587, ['workshops hotel renaissance rueil malmaison fc si\xc3\x82\xc2\x8fge'], "Professional and Medical Educational Events", 5
+588, ['workshops chen zai sheng actosnow club actos case competition'], "Professional and Medical Educational Events", 8
+589, ['travel expenses non employees media radio tv cin group regional activities acto'], "Professional and Medical Educational Events", 6
+590, ['travel expenses employees wei liu'], "Lodging", 7
+591, ['workshops yonghong liu blopress'], "Professional and Medical Educational Events", 1
+592, ['workshops xiaojuan yao actos'], "Professional and Medical Educational Events", 3
+593, ['workshops lin hu blopress'], "Professional and Medical Educational Events", 8
+594, ['wages salaries net pay payroll'], "Other Logistics Services", 9
+595, ['travel expenses non employees zao kontinent ekspress congress tach'], "Professional and Medical Educational Events", 2
+596, ['workshops yanli lu enantone pc'], "Professional and Medical Educational Events", 0
+597, ['travel expenses employees zao kontinent ekspress congress card'], "Lodging", 2
+598, ['wages salaries interim receivables'], "Salary", 4
+599, ['travel expenses non employees zao kontinent ekspress congress cera'], "Professional and Medical Educational Events", 2
+600, ['travel expenses employees vysotka internal meetings marketing'], "Lodging", 0
+601, ['travel expenses employees sposaro carmelinda'], "Airfare", 7
+602, ['travel expenses employees sch\xc3\x82\xc5\xa0fer sebastian'], "Lodging", 7
+603, ['travel expenses employees villena torres puchol ignacio'], "Lodging", 9
+604, ['travel expenses non employees zao kontinent ekspress group regional activities cera'], "Professional and Medical Educational Events", 2
+605, ['travel expenses employees zhou jie'], "Lodging", 7
+606, ['wages salaries accrued vac payment'], "Salary", 4
+607, ['workshops peng zhang hb'], "Professional and Medical Educational Events", 3
+608, ['workshops ashfield meetings events'], "Professional and Medical Educational Events", 5
+609, ['travel expenses employees sascha klucinec'], "Lodging", 9
+610, ['workshops kang chen xi blopress'], "Professional and Medical Educational Events", 0
+611, ['workshops xu liang ju takepron'], "Professional and Medical Educational Events", 4
+612, ['wage related costs salaries due empl'], "One off Gains & Losses", 2
+613, ['wages salaries taiping yanglao baoxian gufen youxi'], "Health Benefits & Life Insurance", 0
+614, ['travel expenses employees travel exp employees voyages ndf medical msl'], "Airfare", 7
+615, ['workshops li xu basen'], "Professional and Medical Educational Events", 1
+616, ['travel expenses employees zao kontinent ekspress business trips taxi sales'], "Lodging", 2
+617, ['travel expenses employees \xc3\x82\xc5\xa0chler alexander'], "Lodging", 1
+618, ['workshops wubaozhen actos now hb'], "Professional and Medical Educational Events", 5
+619, ['workshops qin xiu fen actos now zj'], "Professional and Medical Educational Events", 8
+620, ['workshops jianweiwu basen'], "Professional and Medical Educational Events", 3
+621, ['workshops xiaofeng gu basen'], "Professional and Medical Educational Events", 3
+622, ['workshops zhenghua li blopress'], "Professional and Medical Educational Events", 0
+623, ['workshops prov sh liab month'], "Professional and Medical Educational Events", 1
+624, ['workshops huixin liu blopress'], "Professional and Medical Educational Events", 5
+625, ['workshops impuls event ch gmbh'], "Professional and Medical Educational Events", 5
+626, ['workshops yiran xu sh'], "Professional and Medical Educational Events", 1
+627, ['workshops wenbiao dai enantone pc'], "Professional and Medical Educational Events", 0
+628, ['travel expenses employees secur grds ex'], "Lodging", 7
+629, ['vacation pay remuneration accrued bonus prov'], "Salary", 9
+630, ['workshops spark strategy centfunc project'], "Professional and Medical Educational Events", 5
+631, ['wages salaries social security tax'], "Variable Manufacturing Costs (VMC)", 6
+632, ['workshops lin xing takepron'], "Professional and Medical Educational Events", 3
+633, ['travel expenses employees yanhong du'], "Lodging", 7
+634, ['workshops xiaoyan mei enantone pc'], "Professional and Medical Educational Events", 8
+635, ['travel expenses non employees gmbh centfunc project'], "Meals", 2
+636, ['workshops wang jun'], "Professional and Medical Educational Events", 3
+637, ['travel expenses employees wu da sheng'], "Lodging", 0
+638, ['workshops accrued general tj'], "Professional and Medical Educational Events", 9
+639, ['travel expenses non employees nasarius switzerland gmbh tax compliance'], "Research Grants", 0
+640, ['workshops zhenyu huang prevacid'], "Professional and Medical Educational Events", 5
+641, ['wages salaries payable nat insu'], "Variable Manufacturing Costs (VMC)", 9
+642, ['wages salaries payroll settled pbs wages salaries'], "Salary", 9
+643, ['workshops prov sh liab month'], "Brand Events", 1
+644, ['workshops chen yi ming actos'], "Professional and Medical Educational Events", 1
+645, ['workshops fei shao hua basen'], "Professional and Medical Educational Events", 4
+646, ['workshops xu li blopress'], "Professional and Medical Educational Events", 0
+647, ['travel expenses employees roccasecca mauro'], "Airfare", 0
+648, ['workshops mengjue wang enantone'], "Professional and Medical Educational Events", 8
+649, ['workshops chun cheng enantone'], "Professional and Medical Educational Events", 0
+650, ['travel expenses non employees american express services europe li'], "Variable Manufacturing Costs (VMC)", 2
+651, ['travel expenses employees stefano sommella'], "Airfare", 2
+652, ['workshops junyang actos'], "Professional and Medical Educational Events", 1
+653, ['workshops xu min enantone pc'], "Professional and Medical Educational Events", 3
+654, ['workshops viajes el corte ingles'], "Professional and Medical Educational Events", 1
+655, ['workshops na dai blopress'], "Professional and Medical Educational Events", 0
+656, ['workshops zidan wang takepron'], "Professional and Medical Educational Events", 8
+657, ['workshops hongbao chen enantone'], "Professional and Medical Educational Events", 8
+658, ['workshops bin lin enantone em'], "Professional and Medical Educational Events", 8
+659, ['workshops hongshuai lou basen'], "Professional and Medical Educational Events", 1
+660, ['travel expenses employees scudieri saverio'], "Airfare", 7
+661, ['workshops chenyi ding basen'], "Professional and Medical Educational Events", 3
+662, ['workshops jinliang wang basen'], "Professional and Medical Educational Events", 5
+663, ['workshops jinlu li basen'], "Professional and Medical Educational Events", 8
+664, ['workshops pan liang'], "Professional and Medical Educational Events", 1
+665, ['travel expenses employees xie dong mei'], "Lodging", 7
+666, ['travel expenses employees ryadh chouanine'], "Lodging", 7
+667, ['travel expenses employees soro bruno michele'], "Airfare", 0
+668, ['workshops ying cai basen'], "Professional and Medical Educational Events", 5
+669, ['travel expenses employees streibl peter'], "Lodging", 7
+670, ['travel expenses employees rc hotels pte ltd business trips admin'], "Lodging", 2
+671, ['travel expenses employees stephan meyer'], "Lodging", 1
+672, ['travel expenses employees yingmin zhang'], "Lodging", 7
+673, ['workshops qiong fang enantone'], "Professional and Medical Educational Events", 1
+674, ['travel expenses employees santa fe relocation services gmbh'], "Lodging", 7
+675, ['wage related costs payroll settled pbs'], "Other Logistics Services", 2
+676, ['workshops ma duo tj'], "Professional and Medical Educational Events", 8
+677, ['travel expenses employees sergio garrido'], "Airfare", 5
+678, ['travel expenses non employees vip korporeyt trevel group regional activities edar'], "Professional and Medical Educational Events", 2
+679, ['workshops wu yan basen'], "Professional and Medical Educational Events", 4
+680, ['workshops yuan zhang blopress'], "Professional and Medical Educational Events", 0
+681, ['travel expenses non employees accrual expenses pro group regional activities edar'], "Professional and Medical Educational Events", 2
+682, ['workshops goods rec match blopress'], "Professional and Medical Educational Events", 4
+683, ['travel expenses non employees vip korporeyt trevel congress kelt'], "Professional and Medical Educational Events", 9
+684, ['wage related costs salaries'], "Salary", 2
+685, ['workshops fayin liu basen'], "Professional and Medical Educational Events", 5
+686, ['workshops hai qian basen'], "Professional and Medical Educational Events", 5
+687, ['workshops xuan ju actos'], "Professional and Medical Educational Events", 1
+688, ['travel expenses non employees media radio tv cin group regional activities alog'], "Professional and Medical Educational Events", 6
+689, ['workshops shaowu tan hb'], "Professional and Medical Educational Events", 3
+690, ['travel expenses employees travel exp non empl'], "Airfare", 2
+691, ['workshops jpbureau group'], "Professional and Medical Educational Events", 5
+692, ['travel expenses employees valter magara'], "Airfare", 7
+693, ['travel expenses employees tatiana ferreira marques illgen'], "Variable Manufacturing Costs (VMC)", 2
+694, ['workshops gu mei actos'], "Professional and Medical Educational Events", 5
+695, ['workshops zhang tao enantone'], "Professional and Medical Educational Events", 1
+696, ['workshops zhang jie basen'], "Professional and Medical Educational Events", 1
+697, ['workshops wu su actos now tj'], "Professional and Medical Educational Events", 3
+698, ['workshops tao wang actos'], "Professional and Medical Educational Events", 8
+699, ['wages salaries accrued restr costs'], "One off Gains & Losses", 2
+700, ['workshops hongbao chen enantone em'], "Professional and Medical Educational Events", 8
+701, ['workshops ketchum inc'], "Agency Fees & Expenses", 8
+702, ['travel expenses employees renato cirulli'], "Airfare", 7
+703, ['workshops zhao hui enantone em'], "Professional and Medical Educational Events", 5
+704, ['workshops meetings incentives worldwide commercial latam'], "Market Research", 5
+705, ['workshops xuemei li'], "Professional and Medical Educational Events", 5
+706, ['wages salaries wages salaries'], "One off Gains & Losses", 0
+707, ['wages salaries wages salaries wages salaries'], "Variable Manufacturing Costs (VMC)", 0
+708, ['workshops prov sh liab month centfunc project'], "Professional and Medical Educational Events", 0
+709, ['travel expenses non employees zao kontinent ekspress group regional activities kelt'], "Professional and Medical Educational Events", 2
+710, ['workshops le grand hotel rp uro'], "Brand Events", 3
+711, ['travel expenses employees suprjaga oleg mihaylovich business trips medical'], "Lodging", 4
+712, ['vacation pay accrual credit accrued vac payment'], "Salary", 4
+713, ['workshops chenlin wang enantone'], "Professional and Medical Educational Events", 8
+714, ['workshops jianghao takepron'], "Professional and Medical Educational Events", 5
+715, ['workshops paris country club fonctionnement divers dap'], "Professional and Medical Educational Events", 1
+716, ['travel expenses employees zao kontinent ekspress congress xefo'], "Lodging", 2
+717, ['vacation pay tax vac accr cred'], "Salary", 9
+718, ['wages salaries fond sozialnogo straxovaniy wages salaries'], "Salary", 0
+719, ['wages salaries insurance'], "Salary", 0
+720, ['travel expenses non employees charles gerrits'], "Research Grants", 7
+721, ['workshops lou fang takepron'], "Professional and Medical Educational Events", 1
+722, ['travel expenses non employees accrual expenses pro scientific congress ixaz'], "Professional and Medical Educational Events", 9
+723, ['travel expenses employees valt voyages ndf leupro sf'], "Airfare", 1
+724, ['travel expenses non employees accrual expenses pro congress movi'], "Research Grants", 2
+725, ['travel expenses non employees bmi system centfunc project'], "Professional and Medical Educational Events", 4
+726, ['travel expenses employees wages salaries'], "Lodging", 2
+727, ['travel expenses employees sandra nobre'], "Airfare", 1
+728, ['workshops hao qin actos'], "Professional and Medical Educational Events", 8
+729, ['workshops new company ogranak'], "Professional and Medical Educational Events", 5
+730, ['travel expenses employees travel exp non empl congress xefo'], "Lodging", 2
+731, ['travel expenses employees rebecca kaufmann'], "One off Gains & Losses", 5
+732, ['travel expenses non employees accrual expenses pro group regional activities xefo'], "Professional and Medical Educational Events", 2
+733, ['workshops han yan enantone'], "Professional and Medical Educational Events", 1
+734, ['workshops qi li enantone bc'], "Professional and Medical Educational Events", 1
+735, ['travel expenses non employees accrual expenses pro group regional activities card'], "Professional and Medical Educational Events", 2
+736, ['workshops minxia zheng actos'], "Professional and Medical Educational Events", 8
+737, ['vacation pay accrual credit actual vac payment'], "One off Gains & Losses", 4
+738, ['travel expenses employees zanetto giorgio'], "Airfare", 7
+739, ['travel expenses employees travel exp non empl congress cera'], "Lodging", 2
+740, ['workshops ma ying enantone'], "Professional and Medical Educational Events", 8
+741, ['workshops bing zhang takepron'], "Professional and Medical Educational Events", 3
+742, ['vacation pay accrual debit wages salaries insurance admin'], "Salary", 9
+743, ['wages salaries hr document split'], "One off Gains & Losses", 8
+744, ['workshops chen qing enantone bc'], "Professional and Medical Educational Events", 0
+745, ['travel expenses employees qu yan yan enantone'], "Lodging", 7
+746, ['travel expenses non employees travel exp non empl group regional activities feri'], "Professional and Medical Educational Events", 2
+747, ['workshops xie jun enantone'], "Professional and Medical Educational Events", 5
+748, ['travel expenses non employees travel exp non empl group regional activities kelt'], "Consultant", 2
+749, ['vacation pay accrual debit accrued restr costs'], "One off Gains & Losses", 9
+750, ['vacation pay social security tax'], "Salary", 2
+751, ['travel expenses non employees travel exp non empl congress alog'], "Consultant", 2
+752, ['travel expenses employees travel exp employees voyages et ndf oncology marketing'], "Airfare", 0
+753, ['workshops jingyu chen basen'], "Professional and Medical Educational Events", 5
+754, ['workshops goods rec po rp \xc3\x82\xc5\xbdtape de la douleur'], "Brand Events", 4
+755, ['workshops prepaid expenses'], "One off Gains & Losses", 1
+756, ['workshops zhenzhen zheng enantone'], "Professional and Medical Educational Events", 8
+757, ['travel expenses employees zao kontinent ekspress travel exp employees'], "Variable Manufacturing Costs (VMC)", 2
+758, ['travel expenses non employees media radio tv cin congress feri'], "Consultant", 6
+759, ['workshops goods rec match boards \xc3\x82\xc5\xbdgionaux msl adcetris'], "Brand Events", 4
+760, ['travel expenses non employees media radio tv cin congress malt'], "Professional and Medical Educational Events", 6
+761, ['workshops jinlu li actos now zj'], "Professional and Medical Educational Events", 8
+762, ['wage related costs actual vac payment'], "One off Gains & Losses", 4
+763, ['travel expenses non employees media radio tv cin congress colg'], "Research Grants", 6
+764, ['travel expenses non employees general centfunc project'], "Research Grants", 6
+765, ['travel expenses non employees media radio tv cin group regional activities dori'], "Research Grants", 6
+766, ['workshops xinying zu enantone'], "Professional and Medical Educational Events", 8
+767, ['vacation pay accrual credit accrued restr costs'], "One off Gains & Losses", 7
+768, ['travel expenses employees zao kontinent ekspress congress feri'], "Lodging", 2
+769, ['workshops cha dong hu'], "Professional and Medical Educational Events", 3
+770, ['workshops gao jun jie gd'], "Professional and Medical Educational Events", 5
+771, ['workshops guo jian ping basen'], "Professional and Medical Educational Events", 1
+772, ['wages salaries sponsorships tax'], "Salary", 0
+773, ['travel expenses employees yuchen yang'], "Lodging", 7
+774, ['workshops minxia zheng sh'], "Professional and Medical Educational Events", 8
+775, ['travel expenses employees zao kontinent ekspress congress acto'], "Airfare", 9
+776, ['workshops wenbiao dai enantone bc'], "Professional and Medical Educational Events", 1
+777, ['travel expenses non employees travel exp non empl congress dexl'], "Consultant", 2
+778, ['travel expenses non employees accrual expenses pro congress conc'], "Consultant", 2
+779, ['travel expenses non employees travel exp non empl congress riof'], "Professional and Medical Educational Events", 2
+780, ['workshops pan yan ping enantone em'], "Professional and Medical Educational Events", 0
+781, ['workshops goods rec match \xc3\x82\xc5\xbdunion douleur zone'], "Professional and Medical Educational Events", 5
+782, ['vacation pay accrual credit actual vac payment'], "Variable Manufacturing Costs (VMC)", 4
+783, ['workshops novotel cannes montfleu parcours hommes'], "Professional and Medical Educational Events", 3
+784, ['travel expenses non employees travel exp non empl group regional activities fend'], "Professional and Medical Educational Events", 2
+785, ['travel expenses employees zao kontinent ekspress congress kelt'], "Lodging", 9
+786, ['travel expenses employees zhao yun enantone'], "Lodging", 2
+787, ['travel expenses employees weisz monica dost'], "Airfare", 7
+788, ['workshops yi chen enantone cpp'], "Professional and Medical Educational Events", 1
+789, ['travel expenses employees zhang zhi gang enantone'], "Lodging", 7
+790, ['workshops cui bin bin'], "Professional and Medical Educational Events", 3
+791, ['workshops jinhui li blopress'], "Professional and Medical Educational Events", 8
+792, ['travel expenses employees \xc3\x82\xc5\xb8dtke dagmar'], "Lodging", 7
+793, ['travel expenses employees tilocca leonardo'], "Airfare", 2
+794, ['travel expenses non employees media radio tv cin group regional activities acto'], "Research Grants", 6
+795, ['wages salaries accr personnel cost'], "Salary", 2
+796, ['workshops xihai yi takepron'], "Professional and Medical Educational Events", 4
+797, ['workshops jin yue chu zj'], "Professional and Medical Educational Events", 3
+798, ['workshops ou yang qi liang enantone'], "Professional and Medical Educational Events", 1
+799, ['workshops ren jiazi actosnow club actos case competition'], "Professional and Medical Educational Events", 8
+800, ['workshops lupingzhang actos'], "Professional and Medical Educational Events", 4
+801, ['travel expenses non employees zao kontinent ekspress group regional activities enea'], "Professional and Medical Educational Events", 9
+802, ['workshops wu yan actos'], "Professional and Medical Educational Events", 1
+803, ['travel expenses employees travel exp employees travel exp employees'], "Lodging", 2
+804, ['workshops yexia fan basen'], "Professional and Medical Educational Events", 1
+805, ['wages salaries gifts employees'], "Salary", 3
+806, ['workshops guanbao zhang enantone bc'], "Professional and Medical Educational Events", 8
+807, ['travel expenses non employees accrual expenses pro congress vedo'], "Professional and Medical Educational Events", 7
+808, ['workshops liu yi actos now sh'], "Professional and Medical Educational Events", 1
+809, ['travel expenses non employees friederike gottschalk'], "Professional and Medical Educational Events", 2
+810, ['workshops tingting wang gd'], "Professional and Medical Educational Events", 8
+811, ['travel expenses employees yan hong'], "Lodging", 7
+812, ['workshops xin wang hb'], "Professional and Medical Educational Events", 8
+813, ['workshops zhang ji takepron'], "Professional and Medical Educational Events", 1
+814, ['travel expenses non employees zao kontinent ekspress group regional activities dexl'], "Professional and Medical Educational Events", 2
+815, ['workshops accrued general cascade'], "Professional and Medical Educational Events", 0
+816, ['travel expenses employees silvana carone'], "Airfare", 7
+817, ['workshops hongbao chen enantone pc'], "Professional and Medical Educational Events", 8
+818, ['workshops yanli lu enantone bc'], "Professional and Medical Educational Events", 1
+819, ['workshops liu jing basen'], "Professional and Medical Educational Events", 5
+820, ['travel expenses employees qionghe'], "Lodging", 7
+821, ['workshops xin du basen'], "Professional and Medical Educational Events", 5
+822, ['travel expenses employees zao kontinent ekspress scientific congress adce'], "Airfare", 9
+823, ['workshops dongju li tj'], "Professional and Medical Educational Events", 1
+824, ['travel expenses employees torben christiansen'], "Lodging", 7
+825, ['workshops liu yi blopress'], "Professional and Medical Educational Events", 1
+826, ['workshops aofeng zhang enantone'], "Professional and Medical Educational Events", 1
+827, ['workshops hongxia wu actos now sh'], "Professional and Medical Educational Events", 1
+828, ['workshops goods rec match'], "Professional and Medical Educational Events", 5
+829, ['workshops qin xiu fen actosnow club actos case competition'], "Professional and Medical Educational Events", 8
+830, ['travel expenses non employees vip korporeyt trevel congress alog'], "Professional and Medical Educational Events", 9
+831, ['workshops feifei lou zj'], "Professional and Medical Educational Events", 8
+832, ['workshops yan yuan enantone'], "Professional and Medical Educational Events", 0
+833, ['workshops zhang tingting enantone pc'], "Professional and Medical Educational Events", 1
+834, ['workshops yang xiao jie basen'], "Professional and Medical Educational Events", 5
+835, ['travel expenses employees vector alpha categories admin'], "Lodging", 2
+836, ['workshops tong li basen'], "Professional and Medical Educational Events", 1
+837, ['vacation pay accrual debit tax vac accr debit'], "Salary", 4
+838, ['travel expenses employees sindy chen'], "Lodging", 7
+839, ['travel expenses employees tombari pier paolo'], "Airfare", 1
+840, ['travel expenses non employees purchased services'], "Other Travel Costs", 2
+841, ['workshops wang liu enantone'], "Professional and Medical Educational Events", 1
+842, ['travel expenses employees sven karlsson'], "One off Gains & Losses", 0
+843, ['travel expenses employees \xc3\x82\xc5\xb8nter koczessa \xc3\x82\xc5\xb8terkraftverkehr'], "Lodging", 7
+844, ['workshops jinchun wei'], "Professional and Medical Educational Events", 5
+845, ['wage related costs accrued vac payment'], "Salary", 9
+846, ['travel expenses employees vladimir antic'], "Lodging", 1
+847, ['wages salaries prom mat boards etc'], "Salary", 4
+848, ['travel expenses employees redentor romero'], "Lodging", 0
+849, ['workshops li lei gd'], "Professional and Medical Educational Events", 1
+850, ['travel expenses non employees zao kontinent ekspress congress brit'], "Professional and Medical Educational Events", 9
+851, ['travel expenses employees wang chuan'], "Lodging", 0
+852, ['travel expenses employees zao kontinent ekspress congress tach'], "Lodging", 2
+853, ['travel expenses employees wu jiang'], "Lodging", 2
+854, ['workshops yingping zheng gd'], "Professional and Medical Educational Events", 3
+855, ['wages salaries audit'], "Salary", 5
+856, ['workshops fang hong xiong takepron'], "Professional and Medical Educational Events", 0
+857, ['workshops yang xiao jie'], "Professional and Medical Educational Events", 5
+858, ['workshops jundong qiu enantone bc'], "Professional and Medical Educational Events", 8
+859, ['workshops mengjue wang enantone pc'], "Professional and Medical Educational Events", 8
+860, ['wage related costs oth wage rel'], "Variable Manufacturing Costs (VMC)", 9
+861, ['travel expenses employees travel exp employees scientific congress inst'], "Lodging", 9
+862, ['travel expenses employees zao kontinent ekspress congress dexl'], "Lodging", 2
+863, ['travel expenses employees zhu fang'], "Airfare", 0
+864, ['workshops wu shengqi actosnow club actos case competition'], "Professional and Medical Educational Events", 1
+865, ['vacation pay remuneration promotion expenses'], "Salary", 7
+866, ['workshops yanxue liu basen'], "Professional and Medical Educational Events", 5
+867, ['vacation pay net pay payroll'], "Salary", 0
+868, ['travel expenses employees travel exp non empl'], "Lodging", 2
+869, ['workshops qing wang blopress'], "Professional and Medical Educational Events", 1
+870, ['workshops bin lin enantone pc'], "Professional and Medical Educational Events", 8
+871, ['travel expenses non employees accrual expenses pro advisory board kol activities alog'], "Research Grants", 9
+872, ['workshops boxin hu'], "Professional and Medical Educational Events", 3
+873, ['travel expenses employees sebastian laguna'], "Lodging", 2
+874, ['travel expenses non employees zao kontinent ekspress congress ebra'], "Professional and Medical Educational Events", 2
+875, ['travel expenses employees yang qing'], "Lodging", 7
+876, ['wages salaries hr document split'], "Salary", 8
+877, ['travel expenses employees wang lei'], "Lodging", 0
+878, ['workshops jing lu blopress'], "Professional and Medical Educational Events", 1
+879, ['vacation pay accrual debit accr inc soc sec'], "Salary", 9
+880, ['workshops hao guo blopress'], "Professional and Medical Educational Events", 8
+881, ['travel expenses employees zhao yun'], "Lodging", 7
+882, ['travel expenses employees silvia bistrussu'], "Airfare", 0
+883, ['travel expenses non employees accrual expenses pro group regional activities kelt'], "Consultant", 7
+884, ['workshops chao song basen'], "Professional and Medical Educational Events", 1
+885, ['workshops jiayun chen basen'], "Professional and Medical Educational Events", 5
+886, ['workshops juan wu enantone'], "Professional and Medical Educational Events", 5
+887, ['travel expenses employees travel exp employees \xc3\x82\xc5\xbdbergement irp'], "Lodging", 0
+888, ['vacation pay accrued vac payment'], "Other Logistics Services", 4
+889, ['workshops zhifang shen takepron'], "Professional and Medical Educational Events", 4
+890, ['workshops wu su actosnow club actos case competition'], "Professional and Medical Educational Events", 3
+891, ['workshops li bin tj'], "Professional and Medical Educational Events", 8
+892, ['travel expenses employees stefan altenbach'], "Airfare", 7
+893, ['vacation pay accrual credit tax vac accr debit'], "One off Gains & Losses", 9
+894, ['travel expenses employees zao kontinent ekspress salaries total sales'], "Lodging", 9
+895, ['travel expenses employees ziga sovic'], "Lodging", 7
+896, ['workshops yongmei chen basen'], "Professional and Medical Educational Events", 1
+897, ['workshops zhenguo zhang blopress'], "Professional and Medical Educational Events", 8
+898, ['travel expenses employees victoria malakhova'], "Lodging", 0
+899, ['travel expenses non employees accrual expenses pro congress brit'], "Consultant", 2
+900, ['workshops lei zhang takepron'], "Professional and Medical Educational Events", 5
+901, ['travel expenses non employees accrual expenses pro medical education adce'], "Professional and Medical Educational Events", 7
+902, ['travel expenses non employees media radio tv cin group regional activities edar'], "Consultant", 6
+903, ['travel expenses non employees accrual expenses pro group regional activities dexl'], "Consultant", 2
+904, ['travel expenses non employees zao kontinent ekspress group regional activities brit'], "Professional and Medical Educational Events", 2
+905, ['vacation pay net pay payroll'], "Other Logistics Services", 0
+906, ['travel expenses employees ricardo marques'], "Airfare", 7
+907, ['workshops sen li bj'], "Professional and Medical Educational Events", 3
+908, ['workshops lai qiao ling enantone bc'], "Professional and Medical Educational Events", 1
+909, ['workshops sun jia wen basen'], "Professional and Medical Educational Events", 5
+910, ['travel expenses non employees goods rec match'], "Research Grants", 9
+911, ['travel expenses non employees travel exp non empl group regional activities dori'], "Professional and Medical Educational Events", 2
+912, ['travel expenses employees viajes andromeda sa'], "Lodging", 7
+913, ['vacation pay accrual debit accrued vac payment salaries total sales'], "Salary", 4
+914, ['workshops hong bo enantone'], "Professional and Medical Educational Events", 1
+915, ['vacation pay remuneration payroll settled pbs'], "One off Gains & Losses", 4
+916, ['workshops yihua huang'], "Professional and Medical Educational Events", 5
+917, ['workshops liang huang basen'], "Professional and Medical Educational Events", 4
+918, ['workshops haomo ding tj'], "Professional and Medical Educational Events", 5
+919, ['workshops yang li blopress'], "Professional and Medical Educational Events", 0
+920, ['travel expenses employees yilin huang'], "Lodging", 7
+921, ['workshops zehui bj'], "Professional and Medical Educational Events", 8
+922, ['workshops yihan wang blopress'], "Professional and Medical Educational Events", 3
+923, ['workshops wu xiao yan gd'], "Professional and Medical Educational Events", 0
+924, ['vacation pay remuneration payroll settled pbs'], "Salary", 4
+925, ['travel expenses non employees travel exp employees'], "Other Travel Costs", 2
+926, ['travel expenses employees travel exp employees voyages ndf leupro sf managr'], "Airfare", 0
+927, ['workshops xie yong xue enantone em'], "Professional and Medical Educational Events", 5
+928, ['travel expenses employees xiaozhen ma'], "Lodging", 7
+929, ['travel expenses non employees arcotel hotel nike linz'], "Other Travel Costs", 0
+930, ['travel expenses employees weiwei zhang'], "Lodging", 7
+931, ['vacation pay accrual debit social security tax'], "Salary", 2
+932, ['workshops qingwei gao basen'], "Professional and Medical Educational Events", 5
+933, ['workshops yuqi gao enantone em'], "Professional and Medical Educational Events", 5
+934, ['workshops shuzheng li basen'], "Professional and Medical Educational Events", 1
+935, ['travel expenses non employees travel exp non empl congress cont'], "Consultant", 2
+936, ['workshops goods rec po rp uro'], "Brand Events", 4
+937, ['workshops feifei lou basen'], "Professional and Medical Educational Events", 5
+938, ['workshops accrued general hb'], "Professional and Medical Educational Events", 9
+939, ['travel expenses non employees zao kontinent ekspress group regional activities colg'], "Professional and Medical Educational Events", 2
+940, ['travel expenses non employees media radio tv cin congress kelt'], "Research Grants", 6
+941, ['vacation pay accrual debit accrued vac payment wages salaries'], "Salary", 4
+942, ['workshops zhixiong hong prevacid'], "Professional and Medical Educational Events", 8
+943, ['travel expenses employees wiebke \xc3\x82\xc5\xa1llner'], "Lodging", 7
+944, ['workshops li ya hui basen'], "Professional and Medical Educational Events", 3
+945, ['travel expenses non employees zao kontinent ekspress congress malt'], "Professional and Medical Educational Events", 9
+946, ['workshops xiaofeng qu enantone em'], "Professional and Medical Educational Events", 3
+947, ['travel expenses non employees media radio tv cin congress tach'], "Professional and Medical Educational Events", 6
+948, ['travel expenses non employees accrual expenses pro scientific congress vedo'], "Professional and Medical Educational Events", 9
+949, ['travel expenses non employees accrual expenses pro congress warf'], "Research Grants", 2
+950, ['workshops li hong yun blopress'], "Professional and Medical Educational Events", 0
+951, ['travel expenses non employees travel exp non empl congress malt'], "Research Grants", 9
+952, ['workshops zhenyu huang ppi'], "Professional and Medical Educational Events", 5
+953, ['travel expenses employees rodriguez li\xc3\x8c\xe2\x80\x9apez olga'], "Lodging", 7
+954, ['workshops achieve breakthrough limited'], "Training", 3
+955, ['workshops accrued general bj'], "Professional and Medical Educational Events", 0
+956, ['travel expenses employees vip korporeyt trevel business trips admin'], "Lodging", 2
+957, ['workshops kpl sas meetings program'], "Brand Events", 1
+958, ['travel expenses employees stephanie jagger'], "Airfare", 0
+959, ['workshops ying lei basen'], "Professional and Medical Educational Events", 3
+960, ['wage related costs salaries due empl'], "Salary", 2
+961, ['workshops prepaid expenses centfunc project'], "Professional and Medical Educational Events", 0
+962, ['travel expenses employees salazar hernadnez eva'], "Lodging", 1
+963, ['workshops xie jun npp pc'], "Professional and Medical Educational Events", 8
+964, ['workshops yunfeiren basen'], "Professional and Medical Educational Events", 5
+965, ['workshops yiran xu basen'], "Professional and Medical Educational Events", 5
+966, ['travel expenses employees vip korporeyt trevel internal meetings admin'], "Lodging", 2
+967, ['travel expenses employees teodoro gomez arguello'], "Airfare", 5
+968, ['travel expenses employees zao kontinent ekspress scientific congress acto'], "Lodging", 9
+969, ['travel expenses employees sophie dubois voyages ndf pricing'], "Airfare", 8
+970, ['travel expenses employees tobias meinel'], "Lodging", 7
+971, ['travel expenses non employees novotel \xc3\x82\xc5\xb8rich airport messe centfunc project'], "Consultant", 0
+972, ['travel expenses employees travel exp employees travel exp employees'], "Variable Manufacturing Costs (VMC)", 2
+973, ['workshops qp group americas llc'], "One off Gains & Losses", 1
+974, ['vacation pay accrued vac payment'], "Salary", 4
+975, ['workshops huang xiaoyong actos'], "Professional and Medical Educational Events", 5
+976, ['workshops duojia gao enantone'], "Professional and Medical Educational Events", 8
+977, ['workshops huali shi blopress'], "Professional and Medical Educational Events", 8
+978, ['vacation pay hr document split'], "One off Gains & Losses", 8
+979, ['travel expenses employees \xc3\x82\xe2\x80\xa6nig stefan harald'], "Airfare", 2
+980, ['wage related costs sev pay expense'], "One off Gains & Losses", 7
+981, ['workshops qin tang enantone pc'], "Professional and Medical Educational Events", 8
+982, ['vacation pay accrual debit sev pay expense'], "Variable Manufacturing Costs (VMC)", 0
+983, ['travel expenses employees sigurd orstavik'], "Lodging", 7
+984, ['workshops congr exhibitions'], "Professional and Medical Educational Events", 4
+985, ['vacation pay accrual debit accrued vac payment salaries total distr'], "Salary", 4
+986, ['travel expenses non employees accrued general external meeting enatone em ab meeting'], "Professional and Medical Educational Events", 2
+987, ['travel expenses non employees accrued general'], "Consultant", 6
+988, ['workshops lijun zhang actos now sh'], "Professional and Medical Educational Events", 1
+989, ['workshops jing chen blopress'], "Professional and Medical Educational Events", 0
+990, ['travel expenses employees radisson blu hotel fi \xc3\x82\xc5\xbdseau'], "Lodging", 1
+991, ['workshops hongbo liu zj'], "Professional and Medical Educational Events", 3
+992, ['travel expenses employees riserbato giuseppe'], "Airfare", 7
+993, ['workshops bin lin enantone'], "Professional and Medical Educational Events", 8
+994, ['workshops pan ying actos now gd'], "Professional and Medical Educational Events", 1
+995, ['travel expenses non employees travel exp employees'], "Airfare", 2
+996, ['travel expenses non employees zao kontinent ekspress congress feri'], "Professional and Medical Educational Events", 2
+997, ['workshops goods rec match \xc3\x82\xc5\xbdunion douleur dv'], "Professional and Medical Educational Events", 5
+998, ['wages salaries prov time sen emp'], "Pension & Savings Benefit", 9
+999, ['travel expenses employees zhang kai jun'], "Lodging", 5
