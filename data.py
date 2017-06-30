@@ -31,7 +31,8 @@ def apnews():
     for line in f:
         line, target = line.split('\t')
         line = line.strip('\n').lower()
-        line = line.translate(None, string.punctuation)
+        table = {ord(char): None for char in string.punctuation}
+        line = line.translate(table)
         words = line.split()
         d = []
         for w in words:
