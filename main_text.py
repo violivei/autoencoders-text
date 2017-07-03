@@ -86,60 +86,60 @@ if latent_size == 2:
     kmeans.fit(mu)
 
     # Step size of the mesh. Decrease to increase the quality of the VQ.
-    h = .02     # point in the mesh [x_min, x_max]x[y_min, y_max].
+    # h = .02     # point in the mesh [x_min, x_max]x[y_min, y_max].
 
-    # Plot the decision boundary. For that, we will assign a color to each
-    x_min, x_max = mu[:, 0].min() - 1, mu[:, 0].max() + 1
-    y_min, y_max = mu[:, 1].min() - 1, mu[:, 1].max() + 1
-    xx, yy = np.meshgrid(np.arange(x_min, x_max, h), np.arange(y_min, y_max, h))
-
-    # Obtain labels for each point in mesh. Use last trained model.
-    Z = kmeans.predict(np.c_[xx.ravel(), yy.ravel()])
+    # # Plot the decision boundary. For that, we will assign a color to each
+    # x_min, x_max = mu[:, 0].min() - 1, mu[:, 0].max() + 1
+    # y_min, y_max = mu[:, 1].min() - 1, mu[:, 1].max() + 1
+    # xx, yy = np.meshgrid(np.arange(x_min, x_max, h), np.arange(y_min, y_max, h))
+    #
+    # # Obtain labels for each point in mesh. Use last trained model.
+    # Z = kmeans.predict(np.c_[xx.ravel(), yy.ravel()])
 
     # Output file
     df = pd.DataFrame({'col1': dict_doc['docs'], 'col2': dict_doc['targets'], 'col3': kmeans.predict(mu)})
     df.to_csv('output.csv', sep='\t')
 
     # Put the result into a color plot
-    Z = Z.reshape(xx.shape)
-    plt.figure(1)
-    plt.clf()
-    plt.imshow(Z, interpolation='nearest',
-               extent=(xx.min(), xx.max(), yy.min(), yy.max()),
-               cmap=plt.cm.Paired,
-               aspect='auto', origin='lower')
-
-    plt.plot(mu[:, 0], mu[:, 1], 'k.', markersize=2)
-    # Plot the centroids as a white X
-    centroids = kmeans.cluster_centers_
-    plt.scatter(centroids[:, 0], centroids[:, 1],
-                marker='x', s=169, linewidths=3,
-                color='w', zorder=10)
-    plt.title('K-means clustering on the digits dataset (PCA-reduced data)\n'
-              'Centroids are marked with white cross')
-    plt.xlim(x_min, x_max)
-    plt.ylim(y_min, y_max)
-    plt.xticks(())
-    plt.yticks(())
-    plt.show()
-    
-    plt.figure(figsize=(8, 6)) 
-    plt.scatter(mu[:, 0], mu[:, 1], c="r")
-    plt.savefig("2dstructure.png", bbox_inches="tight")
-    plt.show()
-
-    nx = ny = 20
-    v = 100
-    x_values = np.linspace(-v, v, nx)
-    y_values = np.linspace(-v, v, ny) 
-    canvas = np.empty((28*ny, 20*nx))
-    for i, xi in enumerate(x_values):
-        for j, yi in enumerate(y_values):
-            z = np.array([[xi, yi]], dtype=theano.config.floatX)
-            y = model.generate(z)[0,:]
-            ind = np.argsort(-y)
-            print(xi, yi)
-            for k in range(top_w):
-                print(i2w[ind[k]])
-            print("\n")
-
+    # Z = Z.reshape(xx.shape)
+    # plt.figure(1)
+    # plt.clf()
+    # plt.imshow(Z, interpolation='nearest',
+    #            extent=(xx.min(), xx.max(), yy.min(), yy.max()),
+    #            cmap=plt.cm.Paired,
+    #            aspect='auto', origin='lower')
+    #
+    # plt.plot(mu[:, 0], mu[:, 1], 'k.', markersize=2)
+    # # Plot the centroids as a white X
+    # centroids = kmeans.cluster_centers_
+    # plt.scatter(centroids[:, 0], centroids[:, 1],
+    #             marker='x', s=169, linewidths=3,
+    #             color='w', zorder=10)
+    # plt.title('K-means clustering on the digits dataset (PCA-reduced data)\n'
+    #           'Centroids are marked with white cross')
+    # plt.xlim(x_min, x_max)
+    # plt.ylim(y_min, y_max)
+    # plt.xticks(())
+    # plt.yticks(())
+    # plt.show()
+    #
+    # plt.figure(figsize=(8, 6))
+    # plt.scatter(mu[:, 0], mu[:, 1], c="r")
+    # plt.savefig("2dstructure.png", bbox_inches="tight")
+    # plt.show()
+    #
+    # nx = ny = 20
+    # v = 100
+    # x_values = np.linspace(-v, v, nx)
+    # y_values = np.linspace(-v, v, ny)
+    # canvas = np.empty((28*ny, 20*nx))
+    # for i, xi in enumerate(x_values):
+    #     for j, yi in enumerate(y_values):
+    #         z = np.array([[xi, yi]], dtype=theano.config.floatX)
+    #         y = model.generate(z)[0,:]
+    #         ind = np.argsort(-y)
+    #         print(xi, yi)
+    #         for k in range(top_w):
+    #             print(i2w[ind[k]])
+    #         print("\n")
+    #
