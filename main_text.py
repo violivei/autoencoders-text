@@ -41,7 +41,7 @@ model = VAE(dim_x, dim_x, hidden_size, latent_size, continuous, optimizer)
 
 print("training...")
 start = time.time()
-for i in range(1):
+for i in range(20):
     train_xy = data.batched_idx(train_idx, batch_size)
     error = 0.0
     in_start = time.time()
@@ -82,7 +82,7 @@ if latent_size == 2:
 
     mu = np.array(model.project(X))
 
-    kmeans = KMeans(init='k-means++', n_clusters=10, n_init=10)
+    kmeans = KMeans(init='k-means++', n_clusters=50, n_init=10)
     kmeans.fit(mu)
 
     # Step size of the mesh. Decrease to increase the quality of the VQ.
